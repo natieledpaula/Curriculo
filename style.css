@@ -19,3 +19,21 @@ header{
     border-radius: 50%;
     border: 3px solid white;
 }
+
+/* Seções */
+section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #222;
+    color: white;
+}
